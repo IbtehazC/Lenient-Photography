@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@500&display=swap");
+
+body {
+  background-color: #eee;
+  align-items: center;
+  height: 100vh;
+}
+
+.appbar {
+  height: 100px;
+  width: 100%;
+  border: 1px solid black;
+  border-radius: 2px;
+}
+
+.title {
+  font-weight: bold;
+  font-size: xx-large;
+  letter-spacing: 3px;
+  text-align: center;
+  padding-top: 30px;
+  font-family: "Cinzel", serif;
+}
+
+.carousel-container {
+  width: 50%;
+  margin: 0 auto 0 auto;
+}
