@@ -1,9 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap");
 
 body {
   background-color: #eee;
   align-items: center;
-  height: 100vh;
+  height: auto;
 }
 
 .appbar {
@@ -25,4 +26,23 @@ body {
 .carousel-container {
   width: 50%;
   margin: 0 auto 0 auto;
+}
+
+.header-text {
+  color: black;
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  letter-spacing: 3px;
+}
+
+.paragraph-text {
+  color: white;
+  font-weight: 500;
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: 20px;
+}
+
+.navbar {
+  padding-left: 20px;
 }
