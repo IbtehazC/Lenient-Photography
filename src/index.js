@@ -4,6 +4,9 @@ import './index.css';
 import reportWebVitals from './reportWebVitals';
 import HomePage from './components/Homepage/Homepage';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Contacts from './components/Contacts';
+import About from './components/About';
+
 
 
 ReactDOM.render(

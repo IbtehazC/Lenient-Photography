@@ -46,3 +46,42 @@ body {
 .navbar {
   padding-left: 20px;
 }
+
+.card-holder {
+  width: 70%;
+  height: 80vh;
+  margin: 40px auto 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.card:hover {
+  cursor: pointer;
+}
+
+.a {
+  text-decoration: none;
+}
+
+.about-holder {
+  width: 90%;
+  height: 80%;
+  margin: 20px auto 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.paragraph {
+  width: 40%;
+  height: 90%;
+  padding-left: 100px;
+  text-align: justify;
+}
+
+.image {
+  width: 90%;
+}
+
+.imageholder {
+  padding-left: 150px;
+}
