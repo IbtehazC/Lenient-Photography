@@ -6,14 +6,15 @@ import HomePage from './components/Homepage/Homepage';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Contacts from './components/Contacts';
 import About from './components/About';
+import Package from './components/Homepage/Package';
 
 
 
 ReactDOM.render(
   <React.StrictMode>
-    <HomePage/>
+    <Package />
   </React.StrictMode>,
-  
+
   document.getElementById('root')
 );
 
